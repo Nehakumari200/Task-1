@@ -1,0 +1,19 @@
+body{
+    background-color:grey;
+}
+h1{
+    color:yellow;
+}
+h2{
+    color:rgb(0, 234, 255);
+}
+.dot{
+    height:70px;
+    width:70px;
+    background-color:#bbb;
+    border-radius:50%;
+    display:inline-block;
+}
+
+   
+
